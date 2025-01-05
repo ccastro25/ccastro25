@@ -9,7 +9,7 @@
 - [Setup agents,roles and other features Guide](https://github.com/ccastro25/Configuring_osTicket_System/blob/main/README.md)
 ### Active Directory
 - [installing Windows Server 2022 ](https://github.com/ccastro25/How-to-install-windows-server-2022-on-virtual-box)
-- [Creating Active ](https://github.com/ccastro25/Creating_domain_in_Active_directory)
+- [Creating  Domain in Active Directory  ](https://github.com/ccastro25/Creating_domain_in_Active_directory)
 ## Algorithms 
  - [Binary Search](https://github.com/ccastro25/data_structures_and_algortihms/tree/main/BS)
 - [Bubble Sort](https://github.com/ccastro25/data_structures_and_algortihms/tree/main/bubblesort)
