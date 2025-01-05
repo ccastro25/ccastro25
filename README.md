@@ -10,5 +10,7 @@
 ### Active Directory
 - [installing Windows Server 2022 ](https://github.com/ccastro25/How-to-install-windows-server-2022-on-virtual-box)
 - [Creating Active ](https://github.com/ccastro25/Creating_domain_in_Active_directory)
-## Algorithms and Data Structures
- - [Data Structures and Algorithms](https://github.com/ccastro25/data_structures_and_algortihms)
+## Algorithms 
+ - [Binary Search](https://github.com/ccastro25/data_structures_and_algortihms/tree/main/BS)
+ - [Bubble Sort] (https://github.com/ccastro25/data_structures_and_algortihms/tree/main/BS)
+ - [Quick Sort](https://github.com/ccastro25/data_structures_and_algortihms/tree/main/qs)
