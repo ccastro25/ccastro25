@@ -7,6 +7,7 @@
 ### osTicket (Support Ticket System)
 - [Installing](https://github.com/ccastro25/Setting_up_osTicket)
 - [Setup agents,roles and other features Guide](https://github.com/ccastro25/Configuring_osTicket_System/blob/main/README.md)
+- [OsTicket workflow](https://github.com/ccastro25/Osticket_WorkFlow/blob/main/README.md)
 ### Active Directory
 - [installing Windows Server 2022 ](https://github.com/ccastro25/How-to-install-windows-server-2022-on-virtual-box)
 - [Creating  Domain in Active Directory  ](https://github.com/ccastro25/Creating_domain_in_Active_directory)
