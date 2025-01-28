@@ -13,8 +13,7 @@
 - [Creating  Domain in Active Directory  ](https://github.com/ccastro25/Creating_domain_in_Active_directory)
 - [Adding PC To Local Domain](https://github.com/ccastro25/Adding_PC_To_Local_Domain_Within_Active_Directory)
 - [Managing Group Policy and User Accounts in Active Directory](https://github.com/ccastro25/Managing-Group-Policy-and-User-Accounts-in-Active-Directory/blob/main/README.md)
-- [Sharing Folders with Security Groups]
-   (https://github.com/ccastro25/Sharing-folders-with-Security-Groups-/blob/main/README.md)
+
 ## Algorithms 
  - [Binary Search](https://github.com/ccastro25/data_structures_and_algortihms/tree/main/BS)
 - [Bubble Sort](https://github.com/ccastro25/data_structures_and_algortihms/tree/main/bubblesort)
